@@ -1,2 +1,2 @@
-# in-memoriam-world
+# In Memoriam World
 A Social VR Experience
