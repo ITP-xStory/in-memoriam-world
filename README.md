@@ -1,5 +1,6 @@
 # In Memoriam World
-A Social VR Experience
+In Memoriam is an open-ended, multi-user virtual reality experience that presents a future in which nature is preserved 
+in synthetic monuments. Two participants enter a surreal world of plastic trees, open water, and forest sounds from the past. Entering at two different locations in the landscape, guests are tasked to find each other while exploring the artificial forest. 
 
 ### Project Updates
 [March 5, 2019](https://github.com/ellennickles/in-memoriam-world/blob/master/Updates/01_030519/01_030519.md)
