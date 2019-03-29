@@ -4,4 +4,4 @@ In Memoriam is an open-ended, multi-user virtual reality experience that present
 ### Project Updates
 [March 5, 2019](https://github.com/ellennickles/in-memoriam-world/blob/master/Updates/01_030519/01_030519.md)
 
-[March 29, 2019]
+[March 29, 2019](https://github.com/ITP-xStory/in-memoriam-world/blob/master/Updates/02_032919/02_032919.md)
